@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\manya\\WindowFormsApp1\\WindowFormsApp1.csproj": {}
+    "F:\\WindowFormsApp1\\WindowFormsApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\manya\\WindowFormsApp1\\WindowFormsApp1.csproj": {
+    "F:\\WindowFormsApp1\\WindowFormsApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\manya\\WindowFormsApp1\\WindowFormsApp1.csproj",
+        "projectUniqueName": "F:\\WindowFormsApp1\\WindowFormsApp1.csproj",
         "projectName": "WindowFormsApp1",
-        "projectPath": "C:\\Users\\HP\\Desktop\\manya\\WindowFormsApp1\\WindowFormsApp1.csproj",
+        "projectPath": "F:\\WindowFormsApp1\\WindowFormsApp1.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\manya\\WindowFormsApp1\\obj\\",
+        "outputPath": "F:\\WindowFormsApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
